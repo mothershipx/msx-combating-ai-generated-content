@@ -1,0 +1,7 @@
+# MSX Product Configuration
+product: Combating AI-Generated Content & Misinformation
+slug: combating-ai-generated-content
+org: mothershipx
+status: pre-mvp
+auto_deploy: true
+subdomain: combating-ai-generated-content.msx.dev
