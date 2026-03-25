@@ -1,0 +1,35 @@
+{
+  "id": "d2493942-1895-4870-a436-f3f704eb2d50",
+  "name": "Combating AI-Generated Content & Misinformation",
+  "slug": "combating-ai-generated-content",
+  "category": "saas",
+  "score": 92,
+  "description": "Users are increasingly frustrated by the proliferation of AI-generated content, fake 'guru' posts, and bot accounts on social media platforms, making it difficult to find authentic human expertise and trustworthy information.",
+  "pain_points": [
+    "Difficulty finding authentic human expertise online",
+    "Overwhelmed by AI-generated content",
+    "Frustration with fake 'guru' posts and misleading flexing",
+    "Bot accounts distorting engagement metrics",
+    "Social media feeling inauthentic and 'dystopian'"
+  ],
+  "market_size": "$7.5B",
+  "tech_stack": [
+    "Luma.so (Event Management & Ticketing)",
+    "Webflow (Website for expert profiles, schedules)",
+    "Stripe (Payment Processing)",
+    "Slack/Discord (Private community channels for event attendees)"
+  ],
+  "revenue_model": "Subscription SaaS",
+  "sources": [
+    {
+      "name": "reddit",
+      "trend": "1082 upvotes",
+      "source": "reddit",
+      "mentions": 0
+    }
+  ],
+  "preview_url": "https://mothershipx.github.io/msx-combating-ai-generated-content/",
+  "repo_url": "https://github.com/mothershipx/msx-combating-ai-generated-content",
+  "created_at": "2026-03-25T20:26:16.217Z",
+  "pipeline_version": "1.0.0"
+}
