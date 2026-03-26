@@ -28,9 +28,15 @@
 
 This product addresses the core pain points above with a simple, focused solution that can generate revenue from day 1. The opportunity score of 92/100 indicates strong market demand with manageable competition.
 
+## MVP Features
+
+- **Immutable Proof of Origin** — Embed unforgeable human verification directly into every piece of content you create, ensuring genuine authorship.
+- **Empower Your Authority** — Elevate your credibility and build unparalleled trust with your audience in an increasingly AI-saturated digital world.
+- **Simple Integration Workflow** — Seamlessly apply your unique human signature to text, audio, video, and images with intuitive companion software.
+
 ## Tech Stack
 
-`Luma.so (Event Management & Ticketing)` · `Webflow (Website for expert profiles, schedules)` · `Stripe (Payment Processing)` · `Slack/Discord (Private community channels for event attendees)`
+`Secure Element Hardware (e.g., TPM/TrustZone-like custom chip)` · `Biometric Sensor Technology (Fingerprint/Facial Recognition)` · `Bluetooth LE & NFC Connectivity` · `Public Key Infrastructure (PKI) & Digital Signature Algorithms` · `Decentralized Identifier (DID) / Verifiable Credentials Framework`
 
 ## Revenue Model
 
