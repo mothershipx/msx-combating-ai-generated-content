@@ -4,7 +4,7 @@
 
 > Users are increasingly frustrated by the proliferation of AI-generated content, fake 'guru' posts, and bot accounts on social media platforms, making it difficult to find authentic human expertise and trustworthy information.
 
-### [Live Preview](https://mothershipx.github.io/msx-combating-ai-generated-content/)
+### 🔗 [Live Preview →](https://mothershipx.github.io/msx-combating-ai-generated-content/)
 
 **Category:** saas · **Score:** 92/100 · **Status:** Pre-MVP
 
@@ -30,13 +30,13 @@ This product addresses the core pain points above with a simple, focused solutio
 
 ## MVP Features
 
-- **Immutable Proof of Origin** — Embed unforgeable human verification directly into every piece of content you create, ensuring genuine authorship.
-- **Empower Your Authority** — Elevate your credibility and build unparalleled trust with your audience in an increasingly AI-saturated digital world.
-- **Simple Integration Workflow** — Seamlessly apply your unique human signature to text, audio, video, and images with intuitive companion software.
+- **Immutable HumanProof** — Generate a unique, privacy-preserving 'HumanPrint' linked to your content on an unalterable blockchain ledger, establishing undeniable origin.
+- **Seamless Platform Integration** — Easily embed Veridian's 'Certified Human' badge on your website, social profiles, and content platforms, building instant credibility.
+- **Restore Trust & Credibility** — Empower your audience to instantly verify content authenticity, effortlessly filtering out AI-generated noise and fake expertise.
 
 ## Tech Stack
 
-`Secure Element Hardware (e.g., TPM/TrustZone-like custom chip)` · `Biometric Sensor Technology (Fingerprint/Facial Recognition)` · `Bluetooth LE & NFC Connectivity` · `Public Key Infrastructure (PKI) & Digital Signature Algorithms` · `Decentralized Identifier (DID) / Verifiable Credentials Framework`
+`Behavioral Biometrics AI (Deep Learning, Anomaly Detection)` · `WebRTC/Browser APIs (for real-time biometric input)` · `Edge Computing (for on-device biometric signal processing)` · `Decentralized Storage (e.g., IPFS for content hashes)`
 
 ## Revenue Model
 
